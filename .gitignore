@@ -1,0 +1,52 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/Blazor Helloworld ex1/.vs/Blazor Helloworld ex1/FileContentIndex/658f1dde-65b6-44aa-8220-40bedd23393f.vsidx
+/Blazor Helloworld ex1/obj/staticwebassets.pack.sentinel
+/Blazor Helloworld ex1/obj/project.nuget.cache
+/Blazor Helloworld ex1/obj/project.assets.json
+/Blazor Helloworld ex1/obj/Debug/net6.0/_IsIncrementalBuild
+/Blazor Helloworld ex1/obj/Debug/net6.0/staticwebassets.build.json
+/Blazor Helloworld ex1/obj/Debug/net6.0/refint/Blazor Helloworld ex1.dll
+/Blazor Helloworld ex1/obj/Debug/net6.0/ref/Blazor Helloworld ex1.dll
+/Blazor Helloworld ex1/obj/Debug/net6.0/Blazor Helloworld ex1.pdb
+/Blazor Helloworld ex1/obj/Debug/net6.0/Blazor Helloworld ex1.MvcApplicationPartsAssemblyInfo.cache
+/Blazor Helloworld ex1/obj/Debug/net6.0/Blazor Helloworld ex1.GlobalUsings.g.cs
+/Blazor Helloworld ex1/obj/Debug/net6.0/Blazor Helloworld ex1.genruntimeconfig.cache
+/Blazor Helloworld ex1/obj/Debug/net6.0/Blazor Helloworld ex1.GeneratedMSBuildEditorConfig.editorconfig
+/Blazor Helloworld ex1/obj/Debug/net6.0/Blazor Helloworld ex1.dll
+/Blazor Helloworld ex1/obj/Debug/net6.0/Blazor Helloworld ex1.csproj.FileListAbsolute.txt
+/Blazor Helloworld ex1/obj/Debug/net6.0/Blazor Helloworld ex1.csproj.CoreCompileInputs.cache
+/Blazor Helloworld ex1/obj/Debug/net6.0/Blazor Helloworld ex1.csproj.CopyComplete
+/Blazor Helloworld ex1/obj/Debug/net6.0/Blazor Helloworld ex1.csproj.BuildWithSkipAnalyzers
+/Blazor Helloworld ex1/obj/Debug/net6.0/Blazor Helloworld ex1.csproj.AssemblyReference.cache
+/Blazor Helloworld ex1/obj/Debug/net6.0/Blazor Helloworld ex1.assets.cache
+/Blazor Helloworld ex1/obj/Debug/net6.0/Blazor Helloworld ex1.AssemblyInfoInputs.cache
+/Blazor Helloworld ex1/obj/Debug/net6.0/Blazor Helloworld ex1.AssemblyInfo.cs
+/Blazor Helloworld ex1/obj/Debug/net6.0/apphost.exe
+/Blazor Helloworld ex1/obj/Debug/net6.0/.NETCoreApp,Version=v6.0.AssemblyAttributes.cs
+/Blazor Helloworld ex1/obj/Blazor Helloworld ex1.csproj.nuget.g.targets
+/Blazor Helloworld ex1/obj/Blazor Helloworld ex1.csproj.nuget.g.props
+/Blazor Helloworld ex1/obj/Blazor Helloworld ex1.csproj.nuget.dgspec.json
+/Blazor Helloworld ex1/Blazor Helloworld ex1.csproj
+/Blazor Helloworld ex1/bin/Debug/net6.0/Newtonsoft.Json.dll
+/Blazor Helloworld ex1/bin/Debug/net6.0/Microsoft.VisualBasic.dll
+/Blazor Helloworld ex1/bin/Debug/net6.0/Blazor Helloworld ex1.runtimeconfig.json
+/Blazor Helloworld ex1/bin/Debug/net6.0/Blazor Helloworld ex1.pdb
+/Blazor Helloworld ex1/bin/Debug/net6.0/Blazor Helloworld ex1.exe
+/Blazor Helloworld ex1/bin/Debug/net6.0/Blazor Helloworld ex1.dll
+/Blazor Helloworld ex1/bin/Debug/net6.0/Blazor Helloworld ex1.deps.json
+/Blazor Helloworld ex1/bin/Debug/net6.0/appsettings.json
+/Blazor Helloworld ex1/bin/Debug/net6.0/appsettings.Development.json
+/Blazor Helloworld ex1/.vs/ProjectEvaluation/blazor helloworld ex1.projects.v5.1
+/Blazor Helloworld ex1/.vs/ProjectEvaluation/blazor helloworld ex1.metadata.v5.1
+/Blazor Helloworld ex1/.vs/Blazor Helloworld ex1/v17/.suo
+/Blazor Helloworld ex1/.vs/Blazor Helloworld ex1/v17/.futdcache.v2
+/Blazor Helloworld ex1/.vs/Blazor Helloworld ex1/FileContentIndex/read.lock
+/Blazor Helloworld ex1/.vs/Blazor Helloworld ex1/FileContentIndex/005b4a41-778c-45a9-b219-ee53baeeea39.vsidx
+/Blazor Helloworld ex1/.vs/Blazor Helloworld ex1/DesignTimeBuild/.dtbcache.v2
+/Blazor Helloworld ex1/.vs/Blazor Helloworld ex1/config/applicationhost.config
+/Blazor Helloworld ex1/.cr/personal/FavoritesList/List.xml
+/.vs/VSWorkspaceState.json
+/.vs/Blazor-Helloworld-ex1/v17/.suo
