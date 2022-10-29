@@ -6,3 +6,5 @@ Author
 💞️ I’m looking to collaborate on Dotnet core 6, Blazor, MVC, ASP, Microsoft SQL, Embeded Technology
 📫 How to reach me? Call +60166876896 or email: kiritshah234@gmail.com
 \\\
+
+Just testing how to use consol for blazor dotnet core 6 server app.
